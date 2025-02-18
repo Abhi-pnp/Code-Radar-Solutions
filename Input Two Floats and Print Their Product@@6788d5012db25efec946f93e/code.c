@@ -1,0 +1,10 @@
+// Your code here...
+#include<stdio.h>
+int main(){
+    float a;
+    float b;
+    scanf("%f",&a);
+    scanf("%f",&b);
+    float product = a*b;
+    printf("Product: %f",product);
+}
