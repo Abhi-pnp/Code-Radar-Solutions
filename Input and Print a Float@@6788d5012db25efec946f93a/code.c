@@ -2,5 +2,6 @@
 #include<stdio.h>
 int main(){
     float n;
-    printf("You entered: 3.14");
+    scanf("%f",&n)
+    printf("You entered:%d",n);
 }
